@@ -1,0 +1,61 @@
+*{
+    margin:0;
+   padding:0;
+    border:0;
+    box-sizing:content-box;
+}
+img{
+    margin:auto 30px;
+    display:inline-block;
+}
+.span-one{
+    color:green;
+    display: block;
+
+}
+
+.cart{
+    width:15px;
+    height:15px;
+display: inline;
+width:fit-content;
+color: blue;
+   
+}
+.heart{
+    width:15px;
+    height:15px;
+    display: inline;
+    color: blue;
+}
+
+
+p{
+    display: inline;
+    font-size: 10px;
+    color: gray;
+}
+.button-one{
+    width:170px;
+    height: 50px;
+background-color: blue;
+border:solid 3px blue;
+}
+    .button-two{
+        width:50px;
+        height: 50px;
+      
+        border:solid 3px blue;
+    }
+div{
+    width: 250px;
+    height:fit-content;
+    background-color: lightblue;
+    float:left;
+    margin:30px;
+    border: solid 2px darkgray;
+}
+.our-product{
+    width:1500px;
+    height: 1500px;
+}
